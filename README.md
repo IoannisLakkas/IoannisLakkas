@@ -8,6 +8,9 @@ Hi there! 👋 I'm Ioannis Lakkas
 💡 Always exploring innovative ideas to drive positive change through technology.
 💬 Let's connect! I'm eager to collaborate on projects that merge finance, technology, and sustainability.
 📫 Reach me at https://www.linkedin.com/in/ioannis-lakkas-531695263/
+🎓 Master’s Thesis: "De Novo Value creation with AI and Market Appraisal of AI-Driven Companies: An Empirical study"
+💡 Exploring the transformative potential of AI in business and technology.
+📘 Read it here: https://apothesis.eap.gr/archive/item/210994?lang=el
 😄 Pronouns: He/Him
 📚 Most of the time, you'll find me diving into scholarly articles.
 
