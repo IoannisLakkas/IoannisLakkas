@@ -1,21 +1,8 @@
-Hi there! 👋 I'm Ioannis Lakkas
-🎓 Business Administration graduate with a keen interest in financial technology.
-🎓 Fintech MSc graduate passionate about leveraging technology in finance.
-💼 Palantir geek with a knack for leveraging data analytics in decision-making.
-🤖 AI enthusiast exploring the intersection of artificial intelligence and business solutions.
-📈 Stock market lover with a penchant for understanding market trends and dynamics.
-🌱 Currently focused on designing the next high-impact blockchain project.
-💡 Always exploring innovative ideas to drive positive change through technology.
-💬 Let's connect! I'm eager to collaborate on projects that merge finance, technology, and sustainability.
-📫 Reach me at https://www.linkedin.com/in/ioannis-lakkas-531695263/
-🎓 Master’s Thesis: "De Novo Value creation with AI and Market Appraisal of AI-Driven Companies: An Empirical study"
-💡 Exploring the transformative potential of AI in business and technology.
-📘 Read it here: https://apothesis.eap.gr/archive/item/210994?lang=el
-😄 Pronouns: He/Him
-📚 Most of the time, you'll find me diving into scholarly articles.
-
-
-<!---
-IoannisLakkas/IoannisLakkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 PhD student exploring AI and data analytics in finance
+🎓 MSc in Finance, Banking and Fintech
+🎓 BSc in Business Administration
+🚀 Passionate about the intersection of technology and business
+💼 Palantir Technologies Certified and stock market enthusiast
+📈 Focused on high-impact agentic ai solutions
+💡 Always seeking innovative ways to drive positive change through technology
+Let’s connect! 📫 LinkedIn https://www.linkedin.com/in/ioannis-lakkas-531695263/ 
